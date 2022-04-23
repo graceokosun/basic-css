@@ -1,0 +1,108 @@
+* {
+
+    padding: 0;
+    margin: 0;
+}
+body {
+    text-align: center;
+
+}
+.header {
+background-color:rgb(106, 204, 204);
+align-items: center;
+
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 73px;
+    padding-top: 55px;
+    padding-bottom: 2px;
+    color: white;
+    }
+
+p {
+    padding-bottom: 15px;
+    padding-top: 10px;
+    color: black;
+}
+.about {
+    display: flex;
+    padding-top: 80px;
+    height: 260px;
+    justify-content: space-around;
+}
+
+h2 {
+    color: white;
+    font-size: 27px;
+    font-family: sans-serif;
+    
+}
+.image {
+    max-width: 250px;
+    height: 180px;
+}
+.class2 {
+background-color: white;
+
+}
+img {
+    max-width: 220px;
+    height: 220px;
+}
+h3 {
+    color: rgba(38, 148, 148, 0.74);
+    font-size: 28px;
+    font-family: sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
+}
+h4 {
+    color: rgb(77, 168, 168);
+    font-size: 18px;
+    font-family: sans-serif;
+    padding-top: 25px;
+    padding-bottom: 12px;
+}
+h5
+{
+    color: rgba(28, 134, 134, 0.74);
+    font-size: 30px;
+    font-family: sans-serif;
+    padding-top: 28px;
+}
+.class3 {
+    background-color: rgb(159, 214, 214);
+    padding-bottom: 50px;
+    padding-top: 15px;
+}
+
+ul li {
+    padding-bottom: 13px;
+}
+.class4 {
+    background-color: white;
+
+}
+.gh {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+.button {
+    padding: 10px;
+    background-color: rgba(38, 148, 148, 0.74);
+    border: none;
+    border-radius: 5px;
+    color: white;
+
+}
+.class5 {
+    background-color:  rgba(38, 148, 148, 0.74);
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+    
